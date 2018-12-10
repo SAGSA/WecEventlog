@@ -4,7 +4,7 @@
 # RootModule = ''
 
 # Номер версии данного модуля.
-ModuleVersion = '1.0.0'
+ModuleVersion = '1.0.1'
 
 # Уникальный идентификатор данного модуля
 GUID = 'ff6bd1d3-0f2f-4fca-a6ab-2d77024c6a22'
