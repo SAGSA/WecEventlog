@@ -20,7 +20,7 @@ Copyright = '(c) 2018 SAGSa'
 
 # Описание функций данного модуля
 Description = '
-This module helps to create сustom windows event forwarding Logs
+This module helps to create custom windows event forwarding Logs
 '
 
 # Минимальный номер версии обработчика Windows PowerShell, необходимой для работы данного модуля
