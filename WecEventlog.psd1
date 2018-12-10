@@ -4,7 +4,7 @@
 # RootModule = ''
 
 # Номер версии данного модуля.
-ModuleVersion = '1.0.1'
+ModuleVersion = '1.0.2'
 
 # Уникальный идентификатор данного модуля
 GUID = 'ff6bd1d3-0f2f-4fca-a6ab-2d77024c6a22'
@@ -96,7 +96,7 @@ PrivateData = @{
 
         # Заметки о выпуске этого модуля
         ReleaseNotes = @' 
-## 1.0.0
+## 1.0.2
 *  First release
 '@
 
